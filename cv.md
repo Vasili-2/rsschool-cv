@@ -29,8 +29,8 @@ Branch of the Educational Establishment "Brest State Technical University"
 
 ## Courses
 
-- [Code-basics - HTML for beginners](link to course HTML)
-- [Code-basics - CSS for beginners](link to course CSS)
+- [Code-basics - HTML for beginners](https://code-basics.com/ru/languages/html)
+- [Code-basics - CSS for beginners](https://code-basics.com/ru/languages/css)
 
 ## Languages
 
