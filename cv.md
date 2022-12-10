@@ -29,12 +29,15 @@ Branch of the Educational Establishment "Brest State Technical University"
 
 ## Courses
 
-- [Code-basics - HTML for beginners]
-- [Code-basics - CSS for beginners]
+- [Code-basics - HTML for beginners](link to course HTML)
+- [Code-basics - CSS for beginners](link to course CSS)
 
 ## Languages
 
-###English###
+### English
+
 A2 - Pre-Intermediate
-###Polish###
+
+### Polish
+
 B1 - Intermediate
